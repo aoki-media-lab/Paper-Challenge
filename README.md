@@ -8,6 +8,6 @@
 
 ### TODO:
 
--[ ] Add `Issues tag`
--[ ] Add review format
+- [ ] Add `Issues tag`
+- [ ] Add review format
 
